@@ -1,0 +1,45 @@
+header {
+    background-color: rgb(251, 213, 124);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a {
+    color: rgb(169, 145, 7);
+
+}
+
+header :hover {
+    background-color: bisque;
+    padding: 0px;
+}
+
+#divDragon {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+
+
+}
+
+#divDragon img {
+    width: 100%;
+    height: auto;
+    filter: grayscale(100%);
+    transition: 2.5s ease 0s;
+    border-radius: 50%;
+}
+
+#divDragon img:hover {
+    filter: grayscale(0%);
+    transition: 2.5s ease 0s;
+    border-radius: 0%;
+
+}
+
+#divDragon img:first-child {
+    grid-row: span 2;
+    grid-column: span 2;
+}
