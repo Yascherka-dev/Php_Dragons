@@ -1,0 +1,1 @@
+L'objectif principal de ce projet est de vous familiariser avec les concepts de base de PHP et de vous donner une expérience pratique dans la création de pages web dynamiques. Vous aurez l'occasion de travailler sur des fonctionnalités simples mais essentielles qui vous aideront à comprendre les fondamentaux du développement web avec PHP.# Php_Dragons
