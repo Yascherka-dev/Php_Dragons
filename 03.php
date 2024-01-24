@@ -1,6 +1,6 @@
 <?php include_once("header.php"); ?>
    
-<h1>Les tests<h1>
+<h1>Array<h1>
 
 <div id="divDragon">
 <?php 

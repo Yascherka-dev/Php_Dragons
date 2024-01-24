@@ -1,3 +1,7 @@
+<?php /* header.php */
+include_once("config.php");
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -16,6 +20,11 @@
      <a href="02.php">02</a>
      <a href="03.php">03</a>
      <a href="04.php">04</a>
+     <a href="05.php">05</a>
+     <a href="06.php">06</a>
+     <a href="07.php">07</a>
 </nav>
+
 <?php include_once("search.php"); ?>
+
 </header>
